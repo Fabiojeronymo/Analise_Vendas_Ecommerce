@@ -38,7 +38,7 @@ Numpy: Para cálculos (utilizado no apply de dias da semana).
 # 💡 Principais Descobertas e Análises
 A análise foi dividida em várias seções para responder perguntas de negócio específicas:
 
-💰 1. Visão Financeira Geral
+# 💰 1. Visão Financeira Geral
 Ticket Médio: O valor médio por transação é de R$ 712,04.
 
 Margem Média: A margem de lucro média geral em todos os produtos é de 25,77%.
@@ -71,14 +71,14 @@ Kenneth Torres (Dover, East) - R$ 8.674,17
 
 Dalton Oneal (Salt Lake City, West) - R$ 8.600,69
 
-🌍 4. Análise Geográfica (Regiões e Estados)
+# 🌍 4. Análise Geográfica (Regiões e Estados)
 Lucro por Região: O gráfico de barras de "Lucro por Região" identifica qual região é a mais lucrativa para a empresa.
 
 Cidades Mais Lucrativas: Um Top 5 das cidades com maior geração de lucro foi criado.
 
 Lucro Médio por Estado: A análise mostrou quais estados possuem o maior lucro médio por venda (Top 3: Ohio, Illinois, Kansas), o que é diferente do lucro total.
 
-📅 5. Análise de Sazonalidade
+# 📅 5. Análise de Sazonalidade
 Lucro por Mês: O gráfico de linha "Sazonalidade nas compras por mês" mostra os picos e vales de lucratividade ao longo do ano.
 
 Lucro por Categoria ao Longo do Ano: O gráfico de linha múltipla mostrou que diferentes categorias têm picos em meses distintos (ex: eletrônicos podem vender mais no final do ano, enquanto vestuário em outra época).
